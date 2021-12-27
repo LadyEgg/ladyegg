@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ladyegg/static/css/main.926d0a5e.css",
-    "main.js": "/ladyegg/static/js/main.30d7796d.js",
-    "static/js/787.fec03637.chunk.js": "/ladyegg/static/js/787.fec03637.chunk.js",
-    "static/media/Profile Image.jpg": "/ladyegg/static/media/Profile Image.bc6e9bed112ee482c6f5.jpg",
-    "static/media/Eliza.jpg": "/ladyegg/static/media/Eliza.debb1da7c50f14017d93.jpg",
-    "static/media/Minesweeper.jpg": "/ladyegg/static/media/Minesweeper.c23db297fa01542ea108.jpg",
-    "index.html": "/ladyegg/index.html",
-    "main.926d0a5e.css.map": "/ladyegg/static/css/main.926d0a5e.css.map",
-    "main.30d7796d.js.map": "/ladyegg/static/js/main.30d7796d.js.map",
-    "787.fec03637.chunk.js.map": "/ladyegg/static/js/787.fec03637.chunk.js.map"
+    "main.css": "/my-app/static/css/main.f5bc8947.css",
+    "main.js": "/my-app/static/js/main.61adc91e.js",
+    "static/js/787.fec03637.chunk.js": "/my-app/static/js/787.fec03637.chunk.js",
+    "static/media/Profile Image.jpg": "/my-app/static/media/Profile Image.bc6e9bed112ee482c6f5.jpg",
+    "static/media/Eliza.jpg": "/my-app/static/media/Eliza.debb1da7c50f14017d93.jpg",
+    "static/media/Minesweeper.jpg": "/my-app/static/media/Minesweeper.c23db297fa01542ea108.jpg",
+    "index.html": "/my-app/index.html",
+    "main.f5bc8947.css.map": "/my-app/static/css/main.f5bc8947.css.map",
+    "main.61adc91e.js.map": "/my-app/static/js/main.61adc91e.js.map",
+    "787.fec03637.chunk.js.map": "/my-app/static/js/787.fec03637.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.926d0a5e.css",
-    "static/js/main.30d7796d.js"
+    "static/css/main.f5bc8947.css",
+    "static/js/main.61adc91e.js"
   ]
 }
