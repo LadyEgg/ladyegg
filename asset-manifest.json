@@ -1,24 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ec24510.chunk.css",
-    "main.js": "/static/js/main.f19210fe.chunk.js",
-    "main.js.map": "/static/js/main.f19210fe.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7f711bc7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7f711bc7.js.map",
-    "static/js/2.82d5373e.chunk.js": "/static/js/2.82d5373e.chunk.js",
-    "static/js/2.82d5373e.chunk.js.map": "/static/js/2.82d5373e.chunk.js.map",
-    "static/js/3.c5795eee.chunk.js": "/static/js/3.c5795eee.chunk.js",
-    "static/js/3.c5795eee.chunk.js.map": "/static/js/3.c5795eee.chunk.js.map",
+    "main.css": "/static/css/main.38943f22.css",
+    "main.js": "/static/js/main.08b4742a.js",
+    "static/js/787.fec03637.chunk.js": "/static/js/787.fec03637.chunk.js",
+    "static/media/Profile Image.jpg": "/static/media/Profile Image.bc6e9bed112ee482c6f5.jpg",
+    "static/media/Eliza.jpg": "/static/media/Eliza.debb1da7c50f14017d93.jpg",
+    "static/media/Minesweeper.jpg": "/static/media/Minesweeper.c23db297fa01542ea108.jpg",
     "index.html": "/index.html",
-    "static/css/main.7ec24510.chunk.css.map": "/static/css/main.7ec24510.chunk.css.map",
-    "static/js/2.82d5373e.chunk.js.LICENSE.txt": "/static/js/2.82d5373e.chunk.js.LICENSE.txt",
-    "static/media/Projects.css": "/static/media/Minesweeper.c23db297.jpg",
-    "static/media/Home.css": "/static/media/Profile Image.bc6e9bed.jpg"
+    "main.38943f22.css.map": "/static/css/main.38943f22.css.map",
+    "main.08b4742a.js.map": "/static/js/main.08b4742a.js.map",
+    "787.fec03637.chunk.js.map": "/static/js/787.fec03637.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f711bc7.js",
-    "static/js/2.82d5373e.chunk.js",
-    "static/css/main.7ec24510.chunk.css",
-    "static/js/main.f19210fe.chunk.js"
+    "static/css/main.38943f22.css",
+    "static/js/main.08b4742a.js"
   ]
 }
